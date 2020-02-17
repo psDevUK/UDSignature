@@ -5,6 +5,12 @@ Signature component for UniversalDashboard
 This component allows you to get your end-user to actually sign for something. It has two built in buttons with the component
 which is the **Save** and **Clear** buttons. 
 
+## How do I obtain this for my dashboard
+ To get this Powershell module simply launch powershell and run the following command
+```
+Install-Module -Name UniversalDashboard.UDSignature 
+```
+
 ## How do I use it?
 It is as simple as installing the module, then using the following command:-
 ```
